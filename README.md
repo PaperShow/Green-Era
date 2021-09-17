@@ -1,6 +1,9 @@
 # green_era
 
-A new Flutter project.
+Simple Wallpaper App using REST API from pixels.com
+In this app , api is fetching and calling in initState() function 
+Images is shown by Stream Builder with Sliver Grid Flutter
+
 
 ## Getting Started
 
